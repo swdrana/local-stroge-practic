@@ -1,0 +1,11 @@
+.cart input{
+    display: block;
+    margin: 50px auto;
+    padding: 10px;
+    font-size: 20px;
+    width: 200px;
+}
+.cart button{
+    width: 200px;
+    height: 50px;
+}
