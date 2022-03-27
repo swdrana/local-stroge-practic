@@ -3,8 +3,8 @@ import Cart from '../Cart/Cart';
 import Shop from '../Shop/Shop';
 import './Body.css'
 
-const getCartItem = (text=0, num=0)=>{
-    console.log(1);
+const getCartItem = (text='', num=0)=>{
+    console.log(text, num);
 }
 const Body = () => {
     return (
